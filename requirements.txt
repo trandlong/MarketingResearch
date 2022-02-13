@@ -1,0 +1,11 @@
+tweepy==4.5.0
+textblob==0.17.1
+numpy==1.22.2
+pandas==1.4.1
+sklearn==1.0.2
+matplotlib==3.5.1
+pycountry==22.1.10
+wordcloud==1.8.1
+nltk
+langdetect==1.0.9
+
